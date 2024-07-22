@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Cuma Köse",
+    "classifications": [ "C#", "ASP.NET", "WebAPI", "LeaveManagementServer" ], 
+    "name": "ASP.NET Clean Architecture Solution",
+    "identity": "Nlabs.LeaveManagementServer",
+    "shortName": "nlabs.leavemanagementserver",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "LeaveManagementServer",
+    "preferNameDirectory": true
+  }
+  
